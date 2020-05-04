@@ -1,4 +1,4 @@
-# Neural_Networks_Project
+# Neural_Networks_Final_Project
 Neural Networks and Deep Learning Final Project
 
 ## Data Source:
